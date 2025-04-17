@@ -1,0 +1,21 @@
+Turn: Player 1
+1: Start
+2:
+3: Player 1, Hotel, Troll
+4: Player 2
+5:
+6: Shortcut
+7:
+8: Hotel
+9:
+10: Troll
+11:
+12: Player 2, Hotel
+13:
+14: Troll
+15: Shortcut
+16:
+17: Player 1
+18: Troll
+19:
+20: Finish Line, Troll
